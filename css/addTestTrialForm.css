@@ -1,0 +1,12 @@
+#trialForm {
+    margin: 0 auto;
+    width: 500px;
+}
+#createButton {
+    margin: 0px auto;
+    display:block;
+}
+
+#twoColContent p {
+    text-align: center;
+}

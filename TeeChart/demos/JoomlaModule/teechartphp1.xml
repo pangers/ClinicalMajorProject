@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<mosinstall type="module" version="1.0.0">
+    <name>TeeChart PHP v1</name>
+    <author>Steema Software</author>
+    <creationDate>23/09/2008</creationDate>
+    <copyright>(C) 2008 Steema Software. All rights reserved.</copyright>
+    <license>http://www.gnu.org/copyleft/gpl.html GNU/GPL</license>
+    <authorEmail> info@steema.com Esta dirección de correo electrónico está protegida contra los robots de spam, necesita tener Javascript activado para poder verla </authorEmail>
+    <authorUrl>http://www.steema.com</authorUrl>
+    <version>0.0.1</version>
+    <description>Este modulo pretende mostrar el funcionamiento de TeeChart for PHP con Joomla.</description>
+    <files>
+        <filename module="mod_teechart">mod_teechartphp1.php</filename>
+    </files>
+    <params>
+      <param name="ejemploparametro" type="radio" default="0" label="Ejemplo de Parametros" description="Descripcion bla bla">
+        <option value="0">Parametro 0</option>
+        <option value="1">Parametro 1</option>
+        <option value="2">Parametro 2</option>
+      </param>
+      <param name="View3D" type="radio" default="0" label="View 3D" description="3D Aspect">
+        <option value="0">No</option>
+        <option value="1">Yes</option>
+      </param>
+      <param name="PanelGradient" type="radio" default="0" label="Panel Gradient Visible" description="Will make visible/invisible the panel gradient">
+        <option value="0">No</option>
+        <option value="1">Yes</option>
+      </param>
+    </params>
+</mosinstall>

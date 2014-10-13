@@ -1,0 +1,10 @@
+#twoColContent p, #twoColContent h2, #twoColContent h1 {
+    text-align: center;
+}
+
+#twoColContent img.triaxImage {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid gray;
+}

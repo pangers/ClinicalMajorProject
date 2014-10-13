@@ -1,0 +1,13 @@
+#twoColContent p {
+    text-align: center;
+}
+
+#searchForm {
+    margin: 0px auto;
+    width: 500px;
+}
+
+#searchButton {
+    margin: 0px auto;
+    display:block;
+}

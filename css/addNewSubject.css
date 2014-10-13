@@ -1,0 +1,13 @@
+#addButton {
+    display: block;
+    margin: 0px auto;
+}
+
+#addForm {
+    margin: 0 auto;
+    width: 500px;
+}
+
+#twoColContent p {
+    text-align: center;
+}

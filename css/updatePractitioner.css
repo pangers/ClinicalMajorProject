@@ -1,0 +1,23 @@
+#twoColContent table {
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px;
+	border: 1px solid black;
+	border-collapse: collapse;
+    text-align: center;
+}
+
+#twoColContent th, #twoColContent td {
+    
+	border: 1px solid black;
+	border-collapse: collapse;
+}
+
+#editButton {
+    margin: 0px auto;
+    display:block;
+}
+
+#twoColContent p {
+    text-align: center;
+}

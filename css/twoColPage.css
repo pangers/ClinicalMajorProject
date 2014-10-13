@@ -1,0 +1,14 @@
+#sidebar {
+    float:left;
+    width:240px;
+    background-color: #ECF3FA;
+    text-align: center;
+    margin-right: -260px;
+    position: relative;
+}
+
+#twoColContent {
+    float:left;
+    width:720px;
+    border-left: 240px solid #ECF3FA;
+}

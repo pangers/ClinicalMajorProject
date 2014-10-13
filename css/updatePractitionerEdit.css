@@ -1,0 +1,13 @@
+#updateButton {
+    display: block;
+    margin: 0px auto;
+}
+
+#updateForm {
+    margin: 0 auto;
+    width:250px;
+}
+
+#twoColContent p {
+    text-align: center;
+}
